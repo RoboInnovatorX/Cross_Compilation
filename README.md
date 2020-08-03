@@ -10,6 +10,7 @@
 * For setting up Device Go to **Tools** => **Options** => **Devices** and **Add** a new device there
   ![](images/1.png)
 * Select **Generic Linux Device** and click **Start Wizard**
+
   ![](images/b.png)
 * Set up **Identity name**, **Devie's host name**, **username** and click the **Next** button
   ![](images/c.png)
@@ -18,6 +19,7 @@
 * Press the **Finish** Button
   ![](images/e.png) 
 * You can test the connection just click **Test**
+
   ![](images/f.png) 
 
 * For setting up Kit Go to **Tools** => **Options** => **Kits** => **Compilers** and **Add** manually two compilers. One is for C++ that is **aarch64-liux-gnu-g++** and another one for C that is **aarch64-liux-gnu-gcc**

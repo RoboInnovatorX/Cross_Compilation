@@ -1,5 +1,5 @@
 ## Cross-compiling and Debugging with Qt creater
-This is the turtorial how you can cross compile and debug with Qt creator. The target board is the Xetson Xavier NX devkit
+* This is the turtorial how you can cross compile and debug with Qt creator. The target board is the Xetson Xavier NX devkit.
 ### Step 1: 
 * **Download and extract** the [*Jetson Linux Driver Package Toolchain*](https://docs.nvidia.com/jetson/l4t/Tegra%20Linux%20Driver%20Package%20Development%20Guide/xavier_toolchain.html) file .
    
